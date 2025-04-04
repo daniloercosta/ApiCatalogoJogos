@@ -107,18 +107,3 @@ Copiar
 Editar
 https://localhost:5001/swagger
 🧠 Projeto criado para fins didáticos com foco em boas práticas e arquitetura limpa para APIs com .NET Core.
-
-yaml
-Copiar
-Editar
-
----
-
-Se quiser, posso adaptar o `README.md` para incluir badges, licença, ou instruções de deploy em Azure/AWS/Heroku/GitHub Pages (para frontend). Quer incluir mais alguma coisa?
-
-
-
-
-
-
-
